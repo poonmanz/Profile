@@ -1,2 +1,2 @@
-# Hello World https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif?raw=true
+# Hello World 👋
 This is my github profile
