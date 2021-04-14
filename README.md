@@ -3,8 +3,8 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Machine Learning and Big Data
 
-👨🏻‍💻 Languages and Tools
-- R
-- SQL
-- Python
-- Power BI   
+- 👨🏻‍💻 Languages and Tools
+  - R
+  - SQL
+  - Python
+  - Power BI   
